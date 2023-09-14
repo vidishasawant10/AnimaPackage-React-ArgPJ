@@ -1,0 +1,248 @@
+.end {
+  background-color: #f6f5f5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.end .div-2 {
+  background-color: #f6f5f5;
+  height: 1147px;
+  position: relative;
+  width: 1512px;
+}
+
+.end .overlap-4 {
+  height: 237px;
+  left: 362px;
+  position: absolute;
+  top: 817px;
+  width: 788px;
+}
+
+.end .group-8 {
+  height: 44px;
+  left: 221px;
+  position: absolute;
+  top: 193px;
+  width: 348px;
+}
+
+.end .text-wrapper-20 {
+  color: #90b2ba;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.end .line-2 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 346px;
+}
+
+.end .text-wrapper-21 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 788px;
+}
+
+.end .text-wrapper-22 {
+  color: #10333a;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 479px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 752px;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.end .pexels-rodnae {
+  height: 467px;
+  left: 505px;
+  position: absolute;
+  top: 229px;
+  width: 502px;
+}
+
+.end .overlap-5 {
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1090px;
+}
+
+.end .top-bar {
+  background-color: #90b2ba;
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1090px;
+}
+
+.end .donate {
+  height: 56px;
+  left: 890px;
+  position: absolute;
+  top: 43px;
+  width: 157px;
+}
+
+.end .overlap-group-2 {
+  background-color: #528691;
+  border-radius: 10px;
+  height: 56px;
+  position: relative;
+  width: 155px;
+}
+
+.end .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.end .events {
+  height: 34px;
+  left: 736px;
+  position: absolute;
+  top: 54px;
+  width: 118px;
+}
+
+.end .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.end .home {
+  height: 38px;
+  left: 443px;
+  position: absolute;
+  top: 54px;
+  width: 90px;
+}
+
+.end .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.end .line-3 {
+  height: 2px;
+  left: 21px;
+  position: absolute;
+  top: 36px;
+  width: 47px;
+}
+
+.end .logo {
+  height: 58px;
+  left: 62px;
+  position: absolute;
+  top: 44px;
+  width: 163px;
+}
+
+.end .logo-2 {
+  height: 58px;
+  position: relative;
+  width: 165px;
+}
+
+.end .text-wrapper-26 {
+  color: #f6f5f5;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 41px;
+  font-weight: 400;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.end .group-9 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.end .overlap-group-3 {
+  height: 58px;
+  position: relative;
+}
+
+.end .rectangle {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 57px;
+}
+
+.end .heart {
+  height: 25px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.end .causes-instance {
+  left: 573px !important;
+  position: absolute !important;
+  top: 54px !important;
+}
+
+.end .login-instance {
+  left: 1122px !important;
+  position: absolute !important;
+  top: 43px !important;
+}

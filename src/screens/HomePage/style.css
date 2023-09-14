@@ -1,0 +1,1697 @@
+.home-page {
+  background-color: #f6f5f5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .div-2 {
+  background-color: #f6f5f5;
+  height: 6110px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.home-page .overlap-4 {
+  height: 5050px;
+  left: 0;
+  position: absolute;
+  top: 1060px;
+  width: 1512px;
+}
+
+.home-page .background {
+  height: 4608px;
+  left: 0;
+  position: absolute;
+  top: 170px;
+  width: 1512px;
+}
+
+.home-page .overlap-group-3 {
+  height: 4608px;
+  position: relative;
+}
+
+.home-page .rectangle-wrapper {
+  background-image: url(../../../static/img/unsplash-xibic21qezq-1.png);
+  background-size: 100% 100%;
+  height: 2768px;
+  left: 0;
+  position: absolute;
+  top: 1840px;
+  width: 1512px;
+}
+
+.home-page .rectangle {
+  background: linear-gradient(180deg, rgba(174, 198, 202, 0.46) 0%, rgba(246, 245, 245, 0.99) 100%);
+  height: 1973px;
+  position: relative;
+  top: 795px;
+}
+
+.home-page .background-2 {
+  background-image: url(../../../static/img/unsplash-xibic21qezq.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1840px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.home-page .rectangle-2 {
+  background: linear-gradient(180deg, rgba(174, 198, 202, 0.46) 0%, rgba(246, 245, 245, 0.99) 100%);
+  height: 1840px;
+}
+
+.home-page .group-8 {
+  height: 486px;
+  left: 0;
+  position: absolute;
+  top: 1565px;
+  width: 1512px;
+}
+
+.home-page .rectangle-3 {
+  background: linear-gradient(180deg, rgba(174, 198, 202, 0.8) 0%, rgba(174, 198, 202, 0) 100%);
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 295px;
+  width: 1512px;
+}
+
+.home-page .rectangle-4 {
+  background: linear-gradient(180deg, rgba(174, 198, 202, 0.8) 0%, rgba(174, 198, 202, 0) 100%);
+  height: 295px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.home-page .footer {
+  background-color: #94b3ba;
+  height: 794px;
+  left: 0;
+  position: absolute;
+  top: 4256px;
+  width: 1512px;
+}
+
+.home-page .group-9 {
+  height: 667px;
+  left: 67px;
+  position: relative;
+  top: 64px;
+  width: 1382px;
+}
+
+.home-page .group-wrapper {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 625px;
+  width: 196px;
+}
+
+.home-page .group-10 {
+  height: 42px;
+  position: relative;
+  width: 198px;
+}
+
+.home-page .text-wrapper-19 {
+  color: #1f6878;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .line-3 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 196px;
+}
+
+.home-page .group-11 {
+  height: 22px;
+  left: 167px;
+  position: absolute;
+  top: 8px;
+  width: 29px;
+}
+
+.home-page .overlap-group-4 {
+  height: 22px;
+  position: relative;
+}
+
+.home-page .caret-right {
+  height: 22px !important;
+  left: 7px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 22px !important;
+}
+
+.home-page .line-4 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 21px;
+}
+
+.home-page .pexels-rodnae {
+  height: 533px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 671px;
+}
+
+.home-page .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 33px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 563px;
+  width: 657px;
+}
+
+.home-page .group-12 {
+  height: 44px;
+  left: 991px;
+  position: absolute;
+  top: 563px;
+  width: 386px;
+}
+
+.home-page .ellipse {
+  background-color: #ffffff;
+  border-radius: 5.98px;
+  height: 12px;
+  left: 73px;
+  position: absolute;
+  top: 16px;
+  width: 12px;
+}
+
+.home-page .ellipse-2 {
+  background-color: #ffffff;
+  border-radius: 5.98px;
+  height: 12px;
+  left: 301px;
+  position: absolute;
+  top: 16px;
+  width: 12px;
+}
+
+.home-page .ellipse-3 {
+  background-color: #ffffff;
+  border-radius: 5.98px;
+  height: 12px;
+  left: 187px;
+  position: absolute;
+  top: 16px;
+  width: 12px;
+}
+
+.home-page .facebook-dark {
+  height: 44px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 44px !important;
+}
+
+.home-page .twitter-dark {
+  height: 44px !important;
+  left: 114px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 44px !important;
+}
+
+.home-page .instagram-dark {
+  height: 44px !important;
+  left: 342px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 44px !important;
+}
+
+.home-page .linkedin-dark {
+  height: 44px !important;
+  left: 228px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 44px !important;
+}
+
+.home-page .group-13 {
+  height: 404px;
+  left: 742px;
+  position: absolute;
+  top: 53px;
+  width: 591px;
+}
+
+.home-page .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.home-page .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 33px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+  width: 587px;
+}
+
+.home-page .email {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 181px;
+  width: 207px;
+}
+
+.home-page .overlap-group-5 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 5px;
+  height: 57px;
+  position: relative;
+  width: 205px;
+}
+
+.home-page .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.home-page .overlap-wrapper {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 256px;
+  width: 427px;
+}
+
+.home-page .overlap-5 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 5px;
+  height: 57px;
+  position: relative;
+  width: 425px;
+}
+
+.home-page .email-2 {
+  height: 57px;
+  left: 220px;
+  position: absolute;
+  top: 181px;
+  width: 207px;
+}
+
+.home-page .join-us {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 343px;
+  width: 171px;
+}
+
+.home-page .overlap-6 {
+  background-color: #528691;
+  border-radius: 10px;
+  height: 61px;
+  position: relative;
+  width: 169px;
+}
+
+.home-page .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 114px;
+}
+
+.home-page .line-5 {
+  height: 1px;
+  left: 671px;
+  object-fit: cover;
+  position: absolute;
+  top: 501px;
+  width: 709px;
+}
+
+.home-page .who {
+  height: 406px;
+  left: 222px;
+  position: absolute;
+  top: 3750px;
+  width: 1085px;
+}
+
+.home-page .image-6 {
+  height: 406px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 358px;
+}
+
+.home-page .overlap-group-6 {
+  height: 406px;
+  position: relative;
+}
+
+.home-page .pexels-rodnae-2 {
+  background-color: #c8d9dd;
+  border-radius: 0px 120px 0px 120px;
+  height: 383px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 335px;
+}
+
+.home-page .pexels-rodnae-3 {
+  height: 383px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.home-page .text {
+  height: 303px;
+  left: 433px;
+  position: absolute;
+  top: 51px;
+  width: 652px;
+}
+
+.home-page .group-14 {
+  height: 215px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 656px;
+}
+
+.home-page .text-wrapper-25 {
+  color: #10333a;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-26 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  width: 652px;
+}
+
+.home-page .group-15 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 261px;
+  width: 207px;
+}
+
+.home-page .overlap-7 {
+  height: 42px;
+  position: relative;
+}
+
+.home-page .learn-more {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.home-page .text-wrapper-27 {
+  color: #1f6878;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .line-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 203px;
+}
+
+.home-page .group-16 {
+  height: 22px;
+  left: 178px;
+  position: absolute;
+  top: 10px;
+  width: 29px;
+}
+
+.home-page .no {
+  height: 178px;
+  left: 89px;
+  position: absolute;
+  top: 3480px;
+  width: 1335px;
+}
+
+.home-page .group-17 {
+  height: 178px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 419px;
+}
+
+.home-page .overlap-8 {
+  background-color: #c8d9dd;
+  height: 178px;
+  position: relative;
+  width: 415px;
+}
+
+.home-page .text-wrapper-28 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+}
+
+.home-page .text-wrapper-29 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+  width: 245px;
+}
+
+.home-page .view-more {
+  height: 30px;
+  left: 151px;
+  position: absolute;
+  top: 113px;
+  width: 95px;
+}
+
+.home-page .text-wrapper-30 {
+  color: #1f6878;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .group-18 {
+  height: 18px;
+  left: 69px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.home-page .overlap-group-7 {
+  height: 18px;
+  position: relative;
+}
+
+.home-page .caretright-12 {
+  height: 18px !important;
+  left: 6px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 18px !important;
+}
+
+.home-page .line-7 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 17px;
+}
+
+.home-page .group-19 {
+  height: 178px;
+  left: 460px;
+  position: absolute;
+  top: 0;
+  width: 419px;
+}
+
+.home-page .text-wrapper-31 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 223px;
+}
+
+.home-page .view-more-2 {
+  height: 30px;
+  left: 127px;
+  position: absolute;
+  top: 130px;
+  width: 95px;
+}
+
+.home-page .group-20 {
+  height: 178px;
+  left: 920px;
+  position: absolute;
+  top: 0;
+  width: 419px;
+}
+
+.home-page .text-wrapper-32 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+}
+
+.home-page .text-wrapper-33 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+  width: 238px;
+}
+
+.home-page .view-more-3 {
+  height: 30px;
+  left: 164px;
+  position: absolute;
+  top: 113px;
+  width: 95px;
+}
+
+.home-page .reviews {
+  height: 1323px;
+  left: 54px;
+  position: absolute;
+  top: 2065px;
+  width: 1409px;
+}
+
+.home-page .text-wrapper-34 {
+  color: #10333a;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 534px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-35 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 386px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: 631px;
+}
+
+.home-page .group-21 {
+  height: 487px;
+  left: 484px;
+  position: absolute;
+  top: 138px;
+  width: 439px;
+}
+
+.home-page .overlap-group-8 {
+  background-color: #75979fbd;
+  height: 487px;
+  position: relative;
+  width: 437px;
+}
+
+.home-page .group-22 {
+  height: 100px;
+  left: 40px;
+  position: absolute;
+  top: 341px;
+  width: 284px;
+}
+
+.home-page .group-23 {
+  height: 67px;
+  left: 112px;
+  position: absolute;
+  top: 17px;
+  width: 176px;
+}
+
+.home-page .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.home-page .ellipse-4 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.home-page .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  position: absolute;
+  top: 46px;
+  width: 356px;
+}
+
+.home-page .group-24 {
+  height: 576px;
+  left: 968px;
+  position: absolute;
+  top: 138px;
+  width: 439px;
+}
+
+.home-page .overlap-9 {
+  background-color: #75979fbd;
+  height: 576px;
+  position: relative;
+  width: 437px;
+}
+
+.home-page .group-25 {
+  height: 100px;
+  left: 40px;
+  position: absolute;
+  top: 421px;
+  width: 304px;
+}
+
+.home-page .group-26 {
+  height: 67px;
+  left: 112px;
+  position: absolute;
+  top: 17px;
+  width: 196px;
+}
+
+.home-page .i-know-that-any {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  position: absolute;
+  top: 55px;
+  width: 356px;
+}
+
+.home-page .group-27 {
+  height: 562px;
+  left: 968px;
+  position: absolute;
+  top: 761px;
+  width: 439px;
+}
+
+.home-page .overlap-10 {
+  background-color: #75979fbd;
+  height: 562px;
+  position: relative;
+  width: 437px;
+}
+
+.home-page .group-28 {
+  height: 100px;
+  left: 40px;
+  position: absolute;
+  top: 427px;
+  width: 348px;
+}
+
+.home-page .group-29 {
+  height: 67px;
+  left: 112px;
+  position: absolute;
+  top: 17px;
+  width: 240px;
+}
+
+.home-page .text-wrapper-39 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  position: absolute;
+  top: 52px;
+  width: 356px;
+}
+
+.home-page .group-30 {
+  height: 651px;
+  left: 484px;
+  position: absolute;
+  top: 672px;
+  width: 439px;
+}
+
+.home-page .overlap-11 {
+  background-color: #75979fbd;
+  height: 651px;
+  position: relative;
+  width: 437px;
+}
+
+.home-page .group-31 {
+  height: 100px;
+  left: 40px;
+  position: absolute;
+  top: 516px;
+  width: 284px;
+}
+
+.home-page .i-can-say-personally {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  position: absolute;
+  top: 43px;
+  width: 371px;
+}
+
+.home-page .group-32 {
+  height: 459px;
+  left: 0;
+  position: absolute;
+  top: 864px;
+  width: 439px;
+}
+
+.home-page .overlap-12 {
+  background-color: #75979fbd;
+  height: 459px;
+  position: relative;
+  width: 437px;
+}
+
+.home-page .group-33 {
+  height: 100px;
+  left: 40px;
+  position: absolute;
+  top: 324px;
+  width: 336px;
+}
+
+.home-page .group-34 {
+  height: 67px;
+  left: 112px;
+  position: absolute;
+  top: 17px;
+  width: 228px;
+}
+
+.home-page .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  position: absolute;
+  top: 40px;
+  width: 356px;
+}
+
+.home-page .group-35 {
+  height: 679px;
+  left: 0;
+  position: absolute;
+  top: 138px;
+  width: 439px;
+}
+
+.home-page .overlap-13 {
+  background-color: #75979fbd;
+  height: 679px;
+  position: relative;
+  width: 437px;
+}
+
+.home-page .bread-bounty-is-a {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  position: absolute;
+  top: 62px;
+  width: 356px;
+}
+
+.home-page .group-36 {
+  height: 100px;
+  left: 40px;
+  position: absolute;
+  top: 517px;
+  width: 325px;
+}
+
+.home-page .group-37 {
+  height: 67px;
+  left: 112px;
+  position: absolute;
+  top: 17px;
+  width: 217px;
+}
+
+.home-page .group-38 {
+  height: 37px;
+  left: 1187px;
+  position: absolute;
+  top: 61px;
+  width: 215px;
+}
+
+.home-page .group-39 {
+  height: 22px;
+  left: 184px;
+  position: absolute;
+  top: 9px;
+  width: 29px;
+}
+
+.home-page .latest {
+  height: 748px;
+  left: 90px;
+  position: absolute;
+  top: 1203px;
+  width: 1364px;
+}
+
+.home-page .group-40 {
+  height: 37px;
+  left: 1090px;
+  position: absolute;
+  top: 93px;
+  width: 276px;
+}
+
+.home-page .group-41 {
+  height: 22px;
+  left: 245px;
+  position: absolute;
+  top: 7px;
+  width: 29px;
+}
+
+.home-page .group-42 {
+  height: 116px;
+  left: 276px;
+  position: absolute;
+  top: 0;
+  width: 783px;
+}
+
+.home-page .text-wrapper-41 {
+  color: #10333a;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-42 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: 779px;
+}
+
+.home-page .don {
+  height: 580px;
+  left: 0;
+  position: absolute;
+  top: 168px;
+  width: 1334px;
+}
+
+.home-page .clothes {
+  height: 580px;
+  left: 929px;
+  position: absolute;
+  top: 0;
+  width: 409px;
+}
+
+.home-page .overlap-group-9 {
+  background-image: url(../../../static/img/group-11.png);
+  background-size: 100% 100%;
+  height: 580px;
+  position: relative;
+  width: 405px;
+}
+
+.home-page .text-wrapper-43 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 312px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-44 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 352px;
+  width: 350px;
+}
+
+.home-page .group-43 {
+  height: 68px;
+  left: 23px;
+  position: absolute;
+  top: 430px;
+  width: 364px;
+}
+
+.home-page .group-44 {
+  background-color: #d6d6d6;
+  border-radius: 20px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 357px;
+}
+
+.home-page .rectangle-5 {
+  background-color: #528792;
+  border-radius: 20px;
+  height: 10px;
+  width: 243px;
+}
+
+.home-page .text-wrapper-45 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-46 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.home-page .food {
+  height: 580px;
+  left: 465px;
+  position: absolute;
+  top: 0;
+  width: 405px;
+}
+
+.home-page .yemen {
+  height: 580px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 409px;
+}
+
+.home-page .overlap-14 {
+  background-image: url(../../../static/img/group-13.png);
+  background-size: 100% 100%;
+  height: 580px;
+  position: relative;
+  width: 405px;
+}
+
+.home-page .group-45 {
+  height: 68px;
+  left: 23px;
+  position: absolute;
+  top: 430px;
+  width: 363px;
+}
+
+.home-page .rectangle-6 {
+  background-color: #528792;
+  border-radius: 20px;
+  height: 10px;
+  width: 108px;
+}
+
+.home-page .text-wrapper-47 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 224px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.home-page .why {
+  height: 446px;
+  left: 58px;
+  position: absolute;
+  top: 644px;
+  width: 1398px;
+}
+
+.home-page .community {
+  height: 339px;
+  left: 1080px;
+  position: absolute;
+  top: 107px;
+  width: 320px;
+}
+
+.home-page .overlap-group-10 {
+  background-color: #c8d9dd;
+  height: 339px;
+  position: relative;
+  width: 316px;
+}
+
+.home-page .img-2 {
+  height: 75px;
+  left: 219px;
+  position: absolute;
+  top: 243px;
+  width: 75px;
+}
+
+.home-page .text-wrapper-48 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 29px;
+  font-weight: 600;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.home-page .text-wrapper-49 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 287px;
+}
+
+.home-page .education {
+  height: 339px;
+  left: 720px;
+  position: absolute;
+  top: 107px;
+  width: 320px;
+}
+
+.home-page .overlap-group-11 {
+  height: 240px;
+  left: 25px;
+  position: absolute;
+  top: 78px;
+  width: 273px;
+}
+
+.home-page .graduation-cap {
+  height: 75px;
+  left: 194px;
+  position: absolute;
+  top: 165px;
+  width: 75px;
+}
+
+.home-page .text-wrapper-50 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 273px;
+}
+
+.home-page .text-wrapper-51 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 29px;
+  font-weight: 600;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.home-page .health {
+  height: 339px;
+  left: 360px;
+  position: absolute;
+  top: 107px;
+  width: 320px;
+}
+
+.home-page .text-wrapper-52 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 289px;
+}
+
+.home-page .shelter {
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 107px;
+  width: 320px;
+}
+
+.home-page .text-wrapper-53 {
+  color: #10333a;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 289px;
+}
+
+.home-page .view-more-4 {
+  height: 37px;
+  left: 1190px;
+  position: absolute;
+  top: 39px;
+  width: 208px;
+}
+
+.home-page .group-46 {
+  height: 22px;
+  left: 177px;
+  position: absolute;
+  top: 7px;
+  width: 29px;
+}
+
+.home-page .text-wrapper-54 {
+  color: #10333a;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 537px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .carousal {
+  height: 532px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 1466px;
+}
+
+.home-page .text-wrapper-55 {
+  color: #10333a;
+  font-family: "Yeseva One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-page .group-47 {
+  height: 34px;
+  left: 1175px;
+  position: absolute;
+  top: 109px;
+  width: 256px;
+}
+
+.home-page .group-48 {
+  height: 22px;
+  left: 225px;
+  position: absolute;
+  top: 7px;
+  width: 29px;
+}
+
+.home-page .text-wrapper-56 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 539px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  width: 384px;
+}
+
+.home-page .carousal-components {
+  height: 362px;
+  left: 0;
+  position: absolute;
+  top: 170px;
+  width: 1462px;
+}
+
+.home-page .overlap-15 {
+  height: 309px;
+  left: 31px;
+  position: absolute;
+  top: 0;
+  width: 1435px;
+}
+
+.home-page .carousal-2 {
+  height: 309px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1400px;
+}
+
+.home-page .unsplash {
+  height: 309px;
+  left: 1287px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .unsplash-cnshyprya {
+  height: 309px;
+  left: 3003px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-rodnae-4 {
+  height: 309px;
+  left: 858px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-cottonbro {
+  height: 309px;
+  left: 3432px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-julia-m {
+  height: 309px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-cottonbro-2 {
+  height: 309px;
+  left: 429px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-julia-m-2 {
+  height: 309px;
+  left: 2145px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-lara-jameson {
+  height: 309px;
+  left: 1716px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .pexels-rodnae-5 {
+  height: 309px;
+  left: 2574px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.home-page .right-button {
+  background-color: #528792;
+  border-radius: 35px;
+  height: 70px;
+  left: 1365px;
+  position: absolute;
+  top: 119px;
+  width: 70px;
+}
+
+.home-page .caretright-7 {
+  height: 30px !important;
+  left: 20px !important;
+  position: absolute !important;
+  top: 20px !important;
+  width: 30px !important;
+}
+
+.home-page .dots {
+  height: 18px;
+  left: 644px;
+  position: absolute;
+  top: 344px;
+  width: 174px;
+}
+
+.home-page .ellipse-5 {
+  background-color: #528792;
+  border-radius: 9px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .ellipse-6 {
+  background-color: #cad7da;
+  border-radius: 9px;
+  height: 18px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .ellipse-7 {
+  background-color: #cad7da;
+  border-radius: 9px;
+  height: 18px;
+  left: 52px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .ellipse-8 {
+  background-color: #cad7da;
+  border-radius: 9px;
+  height: 18px;
+  left: 78px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .ellipse-9 {
+  background-color: #cad7da;
+  border-radius: 9px;
+  height: 18px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .ellipse-10 {
+  background-color: #cad7da;
+  border-radius: 9px;
+  height: 18px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .ellipse-11 {
+  background-color: #cad7da;
+  border-radius: 9px;
+  height: 18px;
+  left: 156px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-page .overlap-16 {
+  background-image: url(../../../static/img/page1.png);
+  background-size: 100% 100%;
+  height: 982px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 1516px;
+}
+
+.home-page .login-instance {
+  left: 1123px !important;
+  position: absolute !important;
+  top: 43px !important;
+}
+
+.home-page .causes-instance {
+  left: 573px !important;
+  position: absolute !important;
+  top: 54px !important;
+}
